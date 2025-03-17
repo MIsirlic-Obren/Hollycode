@@ -1,0 +1,14 @@
+{
+  "name": "hollycode-automation-task",
+  "version": "1.0.0",
+  "description": "Hollycode QA Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obren Misirlic",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
